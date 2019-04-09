@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="22" height="22">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #181d30 } 
+	</style>
+	<g id="Group 1">
+		<path id="Rectangle 2" class="shp0" d="M-2,18h27v-2h-27z" />
+		<path id="Rectangle 2 Copy" class="shp0" d="M-2,12h27v-2h-27z" />
+		<path id="Rectangle 2 Copy 2" class="shp0" d="M-2,6h27v-2h-27z" />
+	</g>
+</svg>
